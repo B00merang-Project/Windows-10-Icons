@@ -38,6 +38,7 @@ SVG_FILES = [
     'text-x-lua',
     'text-x-matlab',
     'text-x-python',
+    'text-x-python3',
     'text-x-qml',
     'text-x-sass',
     'text-x-scss',
